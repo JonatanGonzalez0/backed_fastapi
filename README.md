@@ -8,5 +8,5 @@ pip install -r requirements.txt
 
 ## Ejecucion
 ```
-uvicorn main:app --reload
+uvicorn app.main:app --reload
 ```
